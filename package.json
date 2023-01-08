@@ -1,0 +1,22 @@
+{
+  "name": "nodetu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SachinthanaPerera/NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SachinthanaPerera/NodeJs/issues"
+  },
+  "homepage": "https://github.com/SachinthanaPerera/NodeJs#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
